@@ -1,0 +1,17 @@
+#content {
+	margin-top: 50px;
+}
+
+.btn {
+	background-color: #5B79FB;
+	color: #fff !important;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.btn:hover {
+	background-color: #4765E4;
+}
+.responsiveImage img{
+	max-width: 100%;
+	height: auto;
+}
